@@ -5,6 +5,6 @@ test('that weekNum returns a value', () => {
 });
 
 // new test added
-test('that weekNum returns a number', () => {
+test('that weekNum returns a real number', () => {
   expect(weekNum).toBeDefined();
 });
